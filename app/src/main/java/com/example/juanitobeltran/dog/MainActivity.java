@@ -14,7 +14,8 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
-public class MainActivity extends AppCompatActivity {
+public class
+MainActivity extends AppCompatActivity {
 
     private FirebaseAuth mAuth;
     private EditText textoMail, textoContraseña;
@@ -109,5 +110,6 @@ public class MainActivity extends AppCompatActivity {
                 });
     }
 //hola pruba de vane pro en github jajaja
+    ///gonorreas
 }
 
