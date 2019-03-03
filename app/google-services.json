@@ -1,0 +1,99 @@
+{
+  "project_info": {
+    "project_number": "602652223519",
+    "firebase_url": "https://dog-amour.firebaseio.com",
+    "project_id": "dog-amour",
+    "storage_bucket": "dog-amour.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602652223519:android:7b35c54130aab1fe",
+        "android_client_info": {
+          "package_name": "com.example.juanitobeltran.dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602652223519-3hb45b5l07sjnitjgr7vuauk4g1dtchr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.juanitobeltran.dog",
+            "certificate_hash": "30397fc527b7cae8eb6f9e91981d7a0962675cb8"
+          }
+        },
+        {
+          "client_id": "602652223519-jkqdjr07qdbo4mgsfv1lhbf63thrtiin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAV2M9PF7rnUxWUhZKGojXHtfMUTNBM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602652223519-jkqdjr07qdbo4mgsfv1lhbf63thrtiin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602652223519:android:26ce93761113b016",
+        "android_client_info": {
+          "package_name": "poli.dog"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602652223519-9ns65ej4mfcec6jpoqh751vehbttcusr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "poli.dog",
+            "certificate_hash": "c328036fffde5aaf04aef96dca19580c6bc21556"
+          }
+        },
+        {
+          "client_id": "602652223519-jkqdjr07qdbo4mgsfv1lhbf63thrtiin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKAV2M9PF7rnUxWUhZKGojXHtfMUTNBM4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602652223519-jkqdjr07qdbo4mgsfv1lhbf63thrtiin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
